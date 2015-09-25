@@ -24,7 +24,7 @@ npm test
 
 
 ### Code coverage
-For see the code coverage report access the folder **[coverage/lcov-report/](https://github.com/luizdesign/unit-tests-with-mocha-chai-and-istanbul/coverage/lcov-report)**
+For see the code coverage report access the folder **coverage/lcov-report/index.html**
 
 
 ## Contribute
